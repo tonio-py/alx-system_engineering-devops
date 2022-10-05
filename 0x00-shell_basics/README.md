@@ -4,3 +4,4 @@
 3 -> This script list files in the long format manner
 4 -> Thsi sicript list files in the long format and also shows hidden files
 5-> This script list files with digits onlyy
+6-> Script to create the first directory
