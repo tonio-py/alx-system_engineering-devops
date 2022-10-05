@@ -5,3 +5,5 @@
 4 -> Thsi sicript list files in the long format and also shows hidden files
 5-> This script list files with digits onlyy
 6-> Script to create the first directory
+7-> I am really breaking down , creating a script to move the file
+
