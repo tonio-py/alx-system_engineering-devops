@@ -7,3 +7,5 @@
 6-> Script to create the first directory
 7-> I am really breaking down , creating a script to move the file
 8-> Deleting the file called betty
+9-> Detelteing the directory
+10-> Changing directory to the prvious one 
