@@ -8,4 +8,8 @@
 7-> I am really breaking down , creating a script to move the file
 8-> Deleting the file called betty
 9-> Detelteing the directory
-10-> Changing directory to the prvious one 
+10-> Changing directory to the prvious one
+11-> Listing files 
+12 - > Printing the type of a file 
+13 -> Creating a symbolic link
+14 -> Copy htm files 
